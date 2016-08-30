@@ -11,6 +11,9 @@ Below an index of currently available projects and samples on Oracle GitHub.
 ### [Sales Cloud with PaaS samples](https://github.com/oracle/sales-cloud-with-paas-samples)
 Samples that demonstrate how to leverage Oracle PaaS to extend or integrate with Oracle Sales Cloud. Improved security is the primary focus of these samples.
 
+### [CPQ Cloud with PaaS samples](https://github.com/oracle/cpq-cloud-with-paas-samples)
+Samples that demonstrate how to leverage Oracle PaaS to extend or integrate with Oracle CPQ Cloud. 
+
 ### [Compute Cloud Service Demos](https://github.com/oracle/compute-cloud-service-demos)
 Chef automation samples for Oracle Compute Cloud Service.
 
