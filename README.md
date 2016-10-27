@@ -22,3 +22,6 @@ Applications User Experience Rapid Development Kit for Oracle Applications Cloud
 
 ### [Oracle Service Cloud Accelerators](https://github.com/oracle/accelerators)
 Open Source Accelerator samples and tools for the Oracle Service Cloud (OSvC) development community.
+
+### [Oracle Identity Cloud Service Samples](https://github.com/oracle/idm-samples/tree/master/idcs)
+Oracle Identity Cloud Service code samples.
