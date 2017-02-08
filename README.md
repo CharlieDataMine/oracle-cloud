@@ -2,17 +2,18 @@ Oracle Cloud on GitHub
 ============
 This is the uber repository for Oracle Cloud related projects, tools, libraries, and code samples. To get started with [Oracle Cloud](http://cloud.oracle.com), get a [trial account](http://cloud.oracle.com/tryit) and start exploring.
 
-## Oracle Cloud 
-
-### Tools on GitHub
+## Tools on GitHub
  * [Java SDK for Oracle Bare Metal Cloud Services](https://github.com/oracle/bmcs-java-sdk)
  * [Python SDK for Oracle Bare Metal Cloud Services](https://github.com/oracle/bmcs-python-sdk)
 
-### Other Downloads
+## Other Downloads
 You can find downloads for other SDKs and Tools on [OTN Cloud Downloads](http://www.oracle.com/technetwork/topics/cloud/downloads/) page. 
 
-## Code Samples Index on GitHub
+# Code Samples Index on GitHub
 Below an index of currently available projects and samples on Oracle GitHub.
+
+### [Cloud Native DevOps Workshops](https://github.com/oracle/cloud-native-devops-workshop)
+Workshops that show different aspects of Application Development in the cloud with different set of Oracle Cloud Platform services.
 
 ### [Sales Cloud with PaaS samples](https://github.com/oracle/sales-cloud-with-paas-samples)
 Samples that demonstrate how to leverage Oracle PaaS to extend or integrate with Oracle Sales Cloud. Improved security is the primary focus of these samples.
